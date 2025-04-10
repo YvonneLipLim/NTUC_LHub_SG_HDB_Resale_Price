@@ -43,4 +43,4 @@ Future research opportunities include:
 #### About the Author
 This analysis was conducted by Yvonne Lip Lim as a capstone project for the NTUC LearningHub Associate Data Analyst Programme in April 2025.
 
-NOTE: Given the large file size, the Python Report and Presentation slides are saved in PDF copies instead. Please download the files to preview the analysis.
+NOTE: Given the large file size, the Python Report and Presentation slides are saved in PDF copies instead. Please download the files to preview my work.
