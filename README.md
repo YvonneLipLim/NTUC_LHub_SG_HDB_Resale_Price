@@ -1,5 +1,5 @@
-# NTUC_LHub_SG_HDB_Resale_Price
-NTUC Learning Hub, Capstone Project, Singapore HDB Resale Price Analysis
+# NTUC Learning Hub, Capstone Project - Associate Data Analyst Programme [VLC-SCADT11-25-0650]
+
 
 ## Singapore HDB Resale Price Analysis (2017-2024)
 #### Overview
